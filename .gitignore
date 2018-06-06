@@ -2,7 +2,6 @@
 .htaccess
 .well-known
 wp-config.php
-wp-content/uploads
 wp-content/advanced-cache.php
 wp-content/backup-db/
 wp-content/backups/
