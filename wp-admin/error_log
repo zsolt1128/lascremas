@@ -1,0 +1,6 @@
+[04-Jun-2018 17:32:16 UTC] Error Table 'i4727688_wo1.wo_aws_cache' doesn't exist de la base de datos de WordPress para la consulta SELECT *
+                FROM
+                    wo_aws_cache
+                WHERE
+                     name LIKE 'aws_search_term_in'
+		     realizada por do_action('wp_ajax_nopriv_aws_action'), WP_Hook->do_action, WP_Hook->apply_filters, AWS_Search->action_callback, AWS_Search->search, AWS_Cache->get_from_cache_table

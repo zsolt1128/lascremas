@@ -1,0 +1,52 @@
+# Translation of Plugins - Storefront Sticky Add to Cart - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Storefront Sticky Add to Cart - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-05-09 17:11:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Storefront Sticky Add to Cart - Stable (latest release)\n"
+
+#. Plugin Name of the plugin/theme
+msgid "Storefront Sticky Add to Cart"
+msgstr "Storefront Sticky Add to Cart"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/storefront-sticky-add-to-cart/"
+msgstr "https://wordpress.org/plugins/storefront-sticky-add-to-cart/"
+
+#: storefront-sticky-add-to-cart.php:307
+msgid "Select options"
+msgstr "Elige las opciones"
+
+#. Author URI of the plugin/theme
+msgid "http://woothemes.com/"
+msgstr "http://woothemes.com/"
+
+#: storefront-sticky-add-to-cart.php:159
+msgid "Support"
+msgstr "Soporte"
+
+#: storefront-sticky-add-to-cart.php:139 storefront-sticky-add-to-cart.php:148
+msgid "Cheatin&#8217; huh?"
+msgstr "¿Haciendo trampas?"
+
+#. Description of the plugin/theme
+msgid "Adds a sticky add-to-cart bar in single product pages that is revealed as the user scrolls down the page."
+msgstr "Añade una barra fija de \"añade al carrito\" en las páginas de producto que se muestra cuando el usuario se desplaza hacia abajo de la página."
+
+#: storefront-sticky-add-to-cart.php:260
+msgid "Placeholder"
+msgstr "Marcador de posición"
+
+#. Author of the plugin/theme
+msgid "WooThemes"
+msgstr "WooThemes"
+
+#: storefront-sticky-add-to-cart.php:298
+msgid "You're viewing:"
+msgstr "Estás viendo:"
